@@ -1,1 +1,4 @@
 Checando git pull. adicionando texto
+a 
+b
+c 
