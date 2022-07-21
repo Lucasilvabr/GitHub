@@ -3,3 +3,4 @@ adicionando. ok
 Enviando 
 a funcionalidade 
 x
+enviando a funcionalidade b
